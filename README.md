@@ -1,7 +1,7 @@
 # html-apprentissage
 Parcours d'apprentissage HTML - de zéro à l'email professionnel. 
 
-##Table de smatières
+## Table des matières
 
 - Palier 1 : Fondations HTML
 - Palier 2 : CSS de base

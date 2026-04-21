@@ -37,3 +37,6 @@ img {
 ul, ol {
     line-height: 1.8;
 }
+h1, h2, p, ul, ol, li, img {
+    border: 1px solid red;
+}
